@@ -1,6 +1,5 @@
 # inline-svg-icons
 [![GitHub issues](https://img.shields.io/github/issues/cuginoAle/inline-svg-icons.svg?style=plastic)](https://github.com/cuginoAle/inline-svg-icons/issues)
-
 [![GitHub license](https://img.shields.io/github/license/cuginoAle/inline-svg-icons.svg?style=plastic)](https://github.com/cuginoAle/inline-svg-icons/blob/master/LICENSE)
 
 Npm package to export your svg icons
