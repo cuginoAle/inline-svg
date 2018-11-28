@@ -8,7 +8,7 @@ Npm package to export your svg icons
  - enjoy quick and easy inline SVGs!
 
 
-The table mapping the icons is available under: `icons/readme.md`
+The table mapping the icons is available under: [icons/readme.md](../icons/readme.md)
 It will look like this:
 
 
