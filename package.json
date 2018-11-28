@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "standard --fix",
     "build": "node scripts/build.js && npm run lint",
-    "prepublishOnly": "npm run build-svgs"
+    "prepublishOnly": "npm run build"
   },
   "repository": {
     "type": "git",
