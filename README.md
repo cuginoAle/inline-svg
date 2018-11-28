@@ -13,7 +13,7 @@ The table mapping the icons is available here: [icons/readme.md](icons/readme.md
 
 **Use examples:**
 ```js
-const icons = require('@nearform/clinic-common/icons')
+const icons = require('inline-svg-icons/icons')
 
 console.log(icons.activity)
 
@@ -26,7 +26,7 @@ output:
 
 Alternatively you can import the needed icons individually:
 ```js
-const cog = require('@nearform/clinic-common/icons/cog')
+const cog = require('inline-svg-icons/icons/cog')
 ...
 `<span class="my_icon_wrapper">${cog}</span>`
 ```
@@ -34,7 +34,7 @@ const cog = require('@nearform/clinic-common/icons/cog')
 
 Basic style can be imported into the page by adding the following line to your main css file (if you use [postcss-import](https://github.com/postcss/postcss-import)):
 ```css
-@import "@nearform/clinic-common/icons/style.css";
+@import "inline-svg-icons/icons/style.css";
 ```
 
 That will add the following rules:
