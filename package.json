@@ -4,7 +4,9 @@
   "description": "Package to export your svg icons",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "standard --fix",
+    "build": "node scripts/build.js && npm run lint",
+    "prepublishOnly": "npm run build-svgs"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/cuginoAle/inline-svg-icons/issues"
   },
-  "homepage": "https://github.com/cuginoAle/inline-svg-icons#readme"
+  "homepage": "https://github.com/cuginoAle/inline-svg-icons#readme",
+  "dependencies": {
+    "standard": "^12.0.1"
+  }
 }
