@@ -1,0 +1,25 @@
+{
+  "name": "inline-svg-icons",
+  "version": "1.0.0",
+  "description": "Package to export your svg icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuginoAle/inline-svg-icons.git"
+  },
+  "keywords": [
+    "npm",
+    "svg",
+    "inline",
+    "icon"
+  ],
+  "author": "Alessio Carnevale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuginoAle/inline-svg-icons/issues"
+  },
+  "homepage": "https://github.com/cuginoAle/inline-svg-icons#readme"
+}
