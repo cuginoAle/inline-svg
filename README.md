@@ -13,7 +13,7 @@ Npm package to export your svg icons
 
 The table mapping the icons is available here: [icons/readme.md](icons/readme.md)
 
-
+The icons you find by default are made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" 		    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 		    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 **Use examples:**
 ```js
